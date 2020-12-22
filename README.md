@@ -4,18 +4,20 @@
 
 ## Homepage
 Create *reusable components* for the homepage of this Medium clone, as highlighted in the following screenshots.
-The red-lined elements have to be *the same component with different props*.
+
+The red-lined elements have to be **the same component with different props**.
+
 You will retrieve the latest articles from the endpoint and display them like this:
 
 <img src="./Home-I.png">
+<img src="./Home-II.png">
 
 ### Latest from following
 This is the endpoint to call for a list of users with images:
-```
-theendpoint.www
-```
 
-<img src="./Home-II.png">
+```
+https://strive-homeworks.herokuapp.com/api/users/public
+```
 
 *Hint: to retrieve the latest articles, you don't need a specific endpoint; you may just specify the order in the query and limit it*
 
