@@ -2,6 +2,7 @@
 
 # Medium Clone
 
-#### [Frontend](./frontend.md)
-#### [Backend](./backend.md)
+### Guidelines:
+- [Frontend](./frontend.md)
+- [Backend](./backend.md)
 
