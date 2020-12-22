@@ -1,6 +1,4 @@
-# Medium-FE-HW
-
-### FRONTEND
+# Medium Clone - Frontend
 
 ## Homepage
 Create *reusable components* for the homepage of this Medium clone, as highlighted in the following screenshots.
